@@ -1,0 +1,3 @@
+// class TraderDetailPageVm {
+//   String titlename = "";
+// }
